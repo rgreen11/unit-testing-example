@@ -1,4 +1,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/rgreen11/unit-testing-example/badge.svg?branch=master)](https://coveralls.io/github/rgreen11/unit-testing-example?branch=master)
+
+
+
 # unit-testing-example
 Sample code and configuration that demonstrates a simple backend api and unit tests that assert 100% code coverage for that API ✊
 
